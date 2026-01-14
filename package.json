@@ -1,0 +1,14 @@
+{
+  "name": "taap",
+  "version": "1.0.0",
+  "description": "CLI Task & Agenda Planner",
+  "main": "planner.js",
+  "bin": {
+    "taap": "./planner.js"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.5",
+    "dayjs": "^1.11.9"
+  },
+  "type": "commonjs"
+}
