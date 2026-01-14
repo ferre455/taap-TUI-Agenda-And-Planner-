@@ -290,13 +290,3 @@ Ideas:
 TAAP is meant to be **simple, hackable, and stable**.
 If something breaks, it’s meant to be easy to understand and fix.
 
----
-
-If you want, next I can:
-
-* Review your **actual README before you commit**
-* Help you **publish TAAP to npm**
-* Add **screenshots / asciinema demo**
-* Help you **version & release v1.0**
-
-Just tell me what you want next 👌
